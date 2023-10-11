@@ -4,7 +4,7 @@
 
 ## TPs
   <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-SD/tree/main/Atelier%201">
-    (1) Atelier 1 : Régression Logistique
+    Atelier 1 : Régression Logistique
 <!--   </a> <br>
   <a href="">
     (2) -->
