@@ -32,5 +32,5 @@ Python (3.x recommandé) et les bibliothèques suivantes :
 #### Ressources supplémentaires
 Pour en savoir plus sur la régression linéaire et la descente de gradient, consultez des ressources telles que des tutoriels en ligne et des cours d'apprentissage automatique.
 
-# Auteur
+## Auteur
 <kbd>Ayoub ETOULLALI</kbd> 👨‍💻
