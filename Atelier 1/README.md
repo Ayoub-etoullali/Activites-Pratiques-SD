@@ -34,10 +34,6 @@ Python (3.x recommandé) et les bibliothèques suivantes :
 #### Ressources supplémentaires
 Pour en savoir plus sur la régression linéaire et la descente de gradient, consultez des ressources telles que des tutoriels en ligne et des cours d'apprentissage automatique.
 
-# Documentation sur la Régression Logistique, la Matrice de Confusion et la Métrique d'Accuracy
-
-Ce README fournit une documentation sur l'utilisation de modèles de régression logistique, de matrices de confusion et de la métrique d'accuracy en Python. Le document couvre à la fois l'implémentation manuelle et l'utilisation de scikit-learn pour la régression logistique.
-
 ## Partie 2 :
 - Load the data from the CSV file.
 - Split the data into training and testing sets (80% for training and 20% for testing).
